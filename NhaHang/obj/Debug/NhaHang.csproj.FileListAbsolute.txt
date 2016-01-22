@@ -1,0 +1,14 @@
+C:\Users\XZero\OneDrive\Documents\Visual Studio 2015\Projects\Phan Tich TKPM\Do an\QuanLy_NhaHang\NhaHang\bin\Debug\NhaHang.exe.config
+C:\Users\XZero\OneDrive\Documents\Visual Studio 2015\Projects\Phan Tich TKPM\Do an\QuanLy_NhaHang\NhaHang\obj\Debug\NhaHang.csprojResolveAssemblyReference.cache
+C:\Users\XZero\OneDrive\Documents\Visual Studio 2015\Projects\Phan Tich TKPM\Do an\QuanLy_NhaHang\NhaHang\obj\Debug\NhaHang.Frm_Main.resources
+C:\Users\XZero\OneDrive\Documents\Visual Studio 2015\Projects\Phan Tich TKPM\Do an\QuanLy_NhaHang\NhaHang\obj\Debug\NhaHang.Properties.Resources.resources
+C:\Users\XZero\OneDrive\Documents\Visual Studio 2015\Projects\Phan Tich TKPM\Do an\QuanLy_NhaHang\NhaHang\obj\Debug\NhaHang.csproj.GenerateResource.Cache
+C:\Users\XZero\OneDrive\Documents\Visual Studio 2015\Projects\Phan Tich TKPM\Do an\QuanLy_NhaHang\NhaHang\bin\Debug\NhaHang.exe
+C:\Users\XZero\OneDrive\Documents\Visual Studio 2015\Projects\Phan Tich TKPM\Do an\QuanLy_NhaHang\NhaHang\bin\Debug\NhaHang.pdb
+C:\Users\XZero\OneDrive\Documents\Visual Studio 2015\Projects\Phan Tich TKPM\Do an\QuanLy_NhaHang\NhaHang\bin\Debug\BUS.dll
+C:\Users\XZero\OneDrive\Documents\Visual Studio 2015\Projects\Phan Tich TKPM\Do an\QuanLy_NhaHang\NhaHang\bin\Debug\DTO.dll
+C:\Users\XZero\OneDrive\Documents\Visual Studio 2015\Projects\Phan Tich TKPM\Do an\QuanLy_NhaHang\NhaHang\bin\Debug\BUS.pdb
+C:\Users\XZero\OneDrive\Documents\Visual Studio 2015\Projects\Phan Tich TKPM\Do an\QuanLy_NhaHang\NhaHang\bin\Debug\DTO.pdb
+C:\Users\XZero\OneDrive\Documents\Visual Studio 2015\Projects\Phan Tich TKPM\Do an\QuanLy_NhaHang\NhaHang\obj\Debug\NhaHang.exe
+C:\Users\XZero\OneDrive\Documents\Visual Studio 2015\Projects\Phan Tich TKPM\Do an\QuanLy_NhaHang\NhaHang\obj\Debug\NhaHang.pdb
+C:\Users\XZero\OneDrive\Documents\Visual Studio 2015\Projects\Phan Tich TKPM\Do an\QuanLy_NhaHang\NhaHang\obj\Debug\NhaHang.UseControl.MenuButton.resources

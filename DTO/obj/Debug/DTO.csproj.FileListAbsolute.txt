@@ -1,0 +1,4 @@
+C:\Users\XZero\OneDrive\Documents\Visual Studio 2015\Projects\Phan Tich TKPM\Do an\QuanLy_NhaHang\DTO\bin\Debug\DTO.dll
+C:\Users\XZero\OneDrive\Documents\Visual Studio 2015\Projects\Phan Tich TKPM\Do an\QuanLy_NhaHang\DTO\bin\Debug\DTO.pdb
+C:\Users\XZero\OneDrive\Documents\Visual Studio 2015\Projects\Phan Tich TKPM\Do an\QuanLy_NhaHang\DTO\obj\Debug\DTO.dll
+C:\Users\XZero\OneDrive\Documents\Visual Studio 2015\Projects\Phan Tich TKPM\Do an\QuanLy_NhaHang\DTO\obj\Debug\DTO.pdb
