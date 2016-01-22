@@ -1,0 +1,28 @@
+Quan ly kho
+	- Quan ly nha cung cap
+	- Quan ly nguyen Lieu
+	- Mua hang (Nhap kho)
+	- Xuat hang (Xuat kho)
+	- Kiem ke kho
+	- Bao cao hang ton
+Ke Toan
+	- Danh muc loai thu chi
+	- Phieu thu
+	- Phieu chi
+Quan ly nhan vien
+	- Quan ly thong tin nhan vien
+	- Phan cong ca lam viec
+	- Bang luong
+	- Tai khoan nhan vien (thu ngan - ke toan - quan ly)
+Bao cao
+	- Doanh thu
+	- Chi phi
+	- Loi nhuan
+	- Nhan su
+	- Danh sach hoa don ban hang
+	- Bao cao ton kho
+Ban hang
+	- Quan ly thuc don
+	- Quan ly khu vuc ban
+	- Quan ly gia ban
+	- Chuc nang ban hang
