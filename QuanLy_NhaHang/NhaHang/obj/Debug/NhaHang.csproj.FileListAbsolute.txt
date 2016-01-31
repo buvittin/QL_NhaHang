@@ -12,3 +12,6 @@ C:\Users\XZero\OneDrive\Documents\Visual Studio 2015\Projects\Phan Tich TKPM\Do 
 C:\Users\XZero\OneDrive\Documents\Visual Studio 2015\Projects\Phan Tich TKPM\Do an\QuanLy_NhaHang\NhaHang\obj\Debug\NhaHang.exe
 C:\Users\XZero\OneDrive\Documents\Visual Studio 2015\Projects\Phan Tich TKPM\Do an\QuanLy_NhaHang\NhaHang\obj\Debug\NhaHang.pdb
 C:\Users\XZero\OneDrive\Documents\Visual Studio 2015\Projects\Phan Tich TKPM\Do an\QuanLy_NhaHang\NhaHang\obj\Debug\NhaHang.UseControl.MenuButton.resources
+D:\Study\College\1Nam3\2 Phan Tich Phat Trien PM\Project\QL_NhaHang\.git\QuanLy_NhaHang\NhaHang\bin\Debug\NhaHang.exe.config
+D:\Study\College\1Nam3\2 Phan Tich Phat Trien PM\Project\QL_NhaHang\.git\QuanLy_NhaHang\NhaHang\obj\Debug\NhaHang.exe
+D:\Study\College\1Nam3\2 Phan Tich Phat Trien PM\Project\QL_NhaHang\.git\QuanLy_NhaHang\NhaHang\obj\Debug\NhaHang.pdb

@@ -9,9 +9,10 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>NhaHang</RootNamespace>
     <AssemblyName>NhaHang</AssemblyName>
-    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -52,8 +53,32 @@
     <Compile Include="Frm_Main.Designer.cs">
       <DependentUpon>Frm_Main.cs</DependentUpon>
     </Compile>
+    <Compile Include="Frm_NhapXuat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_NhapXuat.Designer.cs">
+      <DependentUpon>Frm_NhapXuat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_ThemNhanhNCC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_ThemNhanhNCC.Designer.cs">
+      <DependentUpon>Frm_ThemNhanhNCC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_ThemNhanhNL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_ThemNhanhNL.Designer.cs">
+      <DependentUpon>Frm_ThemNhanhNL.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ucQuanLyKho.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucQuanLyKho.Designer.cs">
+      <DependentUpon>ucQuanLyKho.cs</DependentUpon>
+    </Compile>
     <Compile Include="UseControl\MenuButton.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -62,6 +87,15 @@
     </Compile>
     <EmbeddedResource Include="Frm_Main.resx">
       <DependentUpon>Frm_Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_NhapXuat.resx">
+      <DependentUpon>Frm_NhapXuat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_ThemNhanhNCC.resx">
+      <DependentUpon>Frm_ThemNhanhNCC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_ThemNhanhNL.resx">
+      <DependentUpon>Frm_ThemNhanhNL.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -73,6 +107,9 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="ucQuanLyKho.resx">
+      <DependentUpon>ucQuanLyKho.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="UseControl\MenuButton.resx">
       <DependentUpon>MenuButton.cs</DependentUpon>
     </EmbeddedResource>
