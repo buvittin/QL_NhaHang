@@ -1,4 +1,7 @@
-﻿using System;
+﻿using DTO;
+using NhaHang.UseControl;
+using NhaHang.Forms;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -12,25 +15,64 @@ namespace NhaHang
 {
     public partial class Frm_Main : Form
     {
+        private TaiKhoan nguoidung = new TaiKhoan();
+
         public Frm_Main()
         {
             InitializeComponent();
-            //menuButton1.H
         }
 
-        private void menuButton1_Click(object sender, EventArgs e)
+        private void Frm_Main_Load(object sender, EventArgs e)
         {
-            MessageBox.Show("");
+            this.Visible = false;
+            DangNhap();
+            if (nguoidung.ID > 0)
+            {
+                this.Visible = true;
+            }
+            else
+            {
+                this.Close();
+            }
+
+            UCtrBanHang bh = new UCtrBanHang(nguoidung);
+            bh.Dock = DockStyle.Fill;
+            plContent.Controls.Add(bh);
         }
 
-        private void menuButton1_ButtonHover(object sender, EventArgs e)
+        private void DangNhap()
         {
-            menuButton1.BackColor = Color.Aqua;
+            using (DangNhap dnForm = new DangNhap())
+            {
+                dnForm.StartPosition = FormStartPosition.CenterScreen;
+                var result = dnForm.ShowDialog();
+
+                if (result == DialogResult.OK)
+                {
+                    nguoidung = dnForm.nguoidung;
+                }
+            }
         }
 
-        private void menuButton1_ButtonLeave(object sender, EventArgs e)
+        private void nbBanHang_ButtonClick(object sender, EventArgs e)
         {
-            menuButton1.BackColor = Color.Transparent;
+            UCtrBanHang bh = new UCtrBanHang(nguoidung);
+            bh.Dock = DockStyle.Fill;
+            plContent.Controls.Clear();
+            plContent.Controls.Add(bh);
+        }
+
+        private void mbQLBanHang_ButtonClick(object sender, EventArgs e)
+        {
+            UCtrQLBanHang bh = new UCtrQLBanHang();
+            bh.Dock = DockStyle.Fill;
+            plContent.Controls.Clear();
+            plContent.Controls.Add(bh);
+        }
+
+        private void mbBaoCao_ButtonClick(object sender, EventArgs e)
+        {
+
         }
     }
 }

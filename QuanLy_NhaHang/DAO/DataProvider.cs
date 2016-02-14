@@ -7,7 +7,7 @@ namespace DAO
     public class DataProvider
     {
         //Khai báo biến 
-        private string _strConnectionString = @"";
+        private string _strConnectionString = @"Data Source=XZEROPC\SQLEXPRESS;Initial Catalog=NhaHangDB;Integrated Security=True";
         private SqlConnection _connection; 
         private string _error = ""; 
  
